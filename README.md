@@ -14,7 +14,9 @@ Você precisa ter instalado e configurado o banco de dados MySql em sua máquina
 
 # Instalação
 Clone este repositório em sua máquina local;
+
 Abra a pasta utilizando um IDE;
+
 Abra o arquivo ClientContext e altere a string de conexão com o banco de dados que você configurou;
 
 Execute o programa.
