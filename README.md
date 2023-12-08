@@ -9,12 +9,14 @@ SACCLIENTE: Crie e gerencie seus atendimentos sobre duvidas, reclamações e pro
 
 # Pré-requisitos
 Você precisa ter instalado e configurado o banco de dados MySql em sua máquina;
+
 É recomendado abrir o programa através de um IDE feito para C#.
 
 # Instalação
 Clone este repositório em sua máquina local;
 Abra a pasta utilizando um IDE;
 Abra o arquivo ClientContext e altere a string de conexão com o banco de dados que você configurou;
+
 Execute o programa.
 
 # Uso
