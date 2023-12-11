@@ -4,6 +4,8 @@ O SACCLIENTE é um sistema de atendimento ao cliente que permite às empresas of
 
 É uma ferramenta valiosa para as empresas que desejam oferecer um atendimento de qualidade aos seus clientes. O sistema oferece uma variedade de recursos que permitem às empresas atender às necessidades de seus clientes de forma eficiente e eficaz.
 
+<img src="https://blog.acelerato.com/wp-content/uploads/2016/06/kanban.png" alt="2">
+
 # Funcionalidades Principais
 SACCLIENTE: Crie e gerencie seus atendimentos sobre duvidas, reclamações e problemas tecnicos, estabelecendo objetivos claros e associando resultados-chave a eles.
 
